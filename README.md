@@ -1,7 +1,5 @@
 ### Hi there 👋, my name is Lucas
 #### I am a third year Computer Science student at the University of Auckland
-![I am a third year Computer Science student at the University of Auckland](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 Passionate for technology, science, and philosophy. Hobbies and interests include cinema, classical music, and fashion
 
 Skills: JAVA / PYTHON / REACT / JS / HTML / CSS
