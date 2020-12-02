@@ -2,6 +2,10 @@
 #### I am a third year Computer Science student at the University of Auckland
 Passionate for technology, science, and philosophy. Hobbies and interests include cinema, classical music, and fashion
 (https://lh3.googleusercontent.com/zhFD1zMWMs5rUGxAmpC6DuhPQwz29AWAKELdVpi2pfmilfb7BL0ySJOxuAWOVoZWohGif3AkIsiYAw=w1278-h927-rw)
+
+![I am GitHub Readme Generator's creator](https://lh3.googleusercontent.com/zhFD1zMWMs5rUGxAmpC6DuhPQwz29AWAKELdVpi2pfmilfb7BL0ySJOxuAWOVoZWohGif3AkIsiYAw=w1278-h927-rw)
+
+
 Skills: JAVA / PYTHON / REACT / JS / HTML / CSS
 
 
