@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Lucas
 #### I am a third year Computer Science student at the University of Auckland
-![I am GitHub Readme Generator's creator](https://lh3.googleusercontent.com/zhFD1zMWMs5rUGxAmpC6DuhPQwz29AWAKELdVpi2pfmilfb7BL0ySJOxuAWOVoZWohGif3AkIsiYAw=w1278-h927-rw)
+![I am GitHub Readme Generator's creator](https://raw.githubusercontent.com/lucasli233/lucasli233/main/lucasli_banner.jpg)
 #### Passionate for technology, science, and philosophy. Hobbies and interests include cinema, classical music, and fashion ####
 #### Skills: JAVA / PYTHON / REACT / JS / HTML / CSS ####
 
