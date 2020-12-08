@@ -8,5 +8,5 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasli233&show_icons=true)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=lucasli233)  
+//![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=lucasli233)  
 
