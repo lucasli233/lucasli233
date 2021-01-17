@@ -9,4 +9,4 @@
 ![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=lucasli233&show_icons=true&theme=nightowl)
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasli233&repo=github-readme-stats)](https://github.com/lucasli233/lucasli233)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasli233&repo=lucasli233)](https://github.com/lucasli233/lucasli233)
