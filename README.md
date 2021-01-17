@@ -9,3 +9,5 @@
 ![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=lucasli233&show_icons=true&theme=nightowl)
 
 ![Custom badge](https://img.shields.io/endpoint)
+
+https://img.shields.io/endpoint?label=Lucas%20Li&logo=Linkedin&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flucasli233%2F
