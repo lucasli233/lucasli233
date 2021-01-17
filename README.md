@@ -8,9 +8,6 @@
 
 ![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=lucasli233&show_icons=true&theme=nightowl)
 
-![Custom badge](https://img.shields.io/endpoint)
+[![Linkedin](https://img.shields.io/endpoint?label=Lucas%20Li&logo=Linkedin&url=https://www.linkedin.com/in/lucasli233/)]
 
-https://img.shields.io/endpoint?label=Lucas%20Li&logo=Linkedin&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flucasli233%2F
-
-
-![Linkedin](https://img.shields.io/endpoint?label=Lucas%20Li&logo=Linkedin&url=https://www.linkedin.com/in/lucasli233/)
+[![Linkedin: Lucas Li](https://img.shields.io/badge/-lucasli233-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasli233/)](https://www.linkedin.com/in/lucasli233/)
