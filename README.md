@@ -13,4 +13,4 @@
 https://img.shields.io/endpoint?label=Lucas%20Li&logo=Linkedin&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flucasli233%2F
 
 
-![Linkedin](https://img.shields.io/endpoint?label=Lucas%20Li&logo=Linkedin&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flucasli233%2F)
+![Linkedin](https://img.shields.io/endpoint?label=Lucas%20Li&logo=Linkedin&url=https://www.linkedin.com/in/lucasli233/)
