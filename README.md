@@ -8,4 +8,4 @@
 
 ![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=lucasli233&show_icons=true&theme=nightowl)
 
-[GitHub](http://github.com)
+https://img.shields.io/endpoint?label=Linkedin&logo=Linkedin&style=social
