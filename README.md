@@ -8,4 +8,4 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasli233&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/[lucasli233])
+![Profile views](https://gpvc.arturio.dev/lucasli233)
