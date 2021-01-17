@@ -9,6 +9,6 @@
 ![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=lucasli233&show_icons=true&theme=nightowl)
 
 
-[![Linkedin: Lucas Li](https://img.shields.io/badge/-Lucas_Li-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasli233/)](https://www.linkedin.com/in/lucasli233/)
+[[![Linkedin: Lucas Li](https://img.shields.io/badge/-Lucas_Li-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasli233/)](https://www.linkedin.com/in/lucasli233/)
 
-[![Linkedin: Lucas Li](https://img.shields.io/badge/-Lucas_Li-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasli233/)](https://www.linkedin.com/in/lucasli233/)
+[![Linkedin: Lucas Li](https://img.shields.io/badge/-Lucas_Li-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasli233/)](https://www.linkedin.com/in/lucasli233/)]
