@@ -8,7 +8,7 @@
 When I'm not working, studying, or sleeping, you will find me:
 - Learning more about technology, science, philosophy, and psychology:nerd_face:
 - Reading:open_book:, watching a lot of critically acclaimed films:clapper:
-- Listening to a wide range of music: classical:violin:, rock:guitar:, techno:headphones:
+- Listening to a wide range of music:musical_note:: classical:violin:, rock:guitar:, techno:headphones:
 - Watching fashion shows and looking for new clothes to buy:dark_sunglasses::coat:
 
 ##### My Top Skills: JAVA / PYTHON / REACT / JS / HTML / CSS
