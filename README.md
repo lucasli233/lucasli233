@@ -5,6 +5,8 @@
 
 ##### Passionate for technology, science, and philosophy.
 ##### Hobbies and interests include cinema, classical music, and fashion
+While I'm not working, studying, or sleeping, 
+
 ##### Top Skills: JAVA / PYTHON / REACT / JS / HTML / CSS
 
 
