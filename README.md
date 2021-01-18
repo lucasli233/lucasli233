@@ -2,7 +2,8 @@
 Currently in my final semester of pursuing a Bachelor of Science degree majoring Computer Science and Logic at the [University of Auckland](https://www.auckland.ac.nz/en.html "University of Auckland").
 
 - Currently working on [react-movie-watchlist-v1](../lucasli233/react-movie-watchlist-v1)
-Tech passionate. Enjoys solve problem solving, proactive and self learner
+- Intellectually curious, tech/science passionate.
+- Enjoy solve problem solving, and a self-learner.
 
 My Top Skills: JAVA / PYTHON / REACT / JS / HTML / CSS
 
