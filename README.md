@@ -5,7 +5,7 @@
 
 ##### Passionate for technology, science, and philosophy.
 ##### Hobbies and interests include cinema, classical music, and fashion
-##### Skills: JAVA / PYTHON / REACT / JS / HTML / CSS ####
+##### Top Skills: JAVA / PYTHON / REACT / JS / HTML / CSS
 
 
 ![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=lucasli233&show_icons=true&theme=great-gatsby)
