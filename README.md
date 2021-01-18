@@ -1,5 +1,5 @@
 ### Hi there 👋, Lucas here :orange_heart:
-#### Currently in my final semester of pursuing a Bachelor of Science degree majoring Computer Science and Logic at the [University of Auckland](https://www.auckland.ac.nz/en.html "University of Auckland").
+Currently in my final semester of pursuing a Bachelor of Science degree majoring Computer Science and Logic at the [University of Auckland](https://www.auckland.ac.nz/en.html "University of Auckland").
 
 I enjoy building things with code and problem solving.
 My Top Skills: JAVA / PYTHON / REACT / JS / HTML / CSS
