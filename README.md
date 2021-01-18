@@ -14,7 +14,7 @@ When I'm not working:briefcase:, studying:man_technologist:, or sleeping:sleepin
 - Reading:open_book:, watching a lot of critically acclaimed films:clapper:
 - Listening to a wide range of music:musical_note:: classical:violin:, rock:guitar:, techno:headphones:
 - Watching fashion shows:dark_sunglasses: and looking for new clothes to buy:coat:
-- Work on my own body at the gym
+- Working out at the gym:weight_lifting_man:
 
 ![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=lucasli233&show_icons=true&theme=great-gatsby)
 
