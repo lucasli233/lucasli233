@@ -16,6 +16,4 @@ When I'm not working:briefcase: studying:man_technologist: or sleeping:sleeping:
 - Watching fashion shows:coat: and looking for new clothes to buy:mans_shoe:
 - Working out at the gym:weight_lifting_man:
 
-
-![](https://github-readme-stats.vercel.app/api?username=lucasli233&show_icons=true&theme=great-gatsby)
-
+![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=lucasli233&show_icons=true&theme=great-gatsby)
