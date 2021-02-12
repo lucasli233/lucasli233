@@ -13,10 +13,10 @@ My Top Skills: JAVA / PYTHON / REACT / JS / HTML / CSS
 [![Facebook](https://img.shields.io/badge/-Find_me_on_Facebook_-orange?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/LucasShengqiLi/)](https://www.facebook.com/LucasShengqiLi/)
 
 When I'm not working:briefcase: studying:man_technologist: or sleeping:sleeping: you will find me:
-- Learning more about technology, science, philosophy, and psychology:nerd_face:
-- Reading:open_book: and watching a lot of critically acclaimed films:clapper:
-- Listening to a wide range of music:musical_note:: classical:violin:, rock:guitar:, techno:headphones:
-- Watching fashion shows:coat: looking for new clothes to buy:mans_shoe:
-- Working out at the gym:weight_lifting_man:
+- Learning more about technology, science, and philosophy 🤓
+- Reading 📖 watching a lot of critically acclaimed films 🎬
+- Listening to a wide range of music: classical 🎻rock 🎸 techno 🎧
+- Watching fashion shows 🧥 looking for new clothes to buy 👞
+- Working out at the gym 🏋️‍♂️
 
 ![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=lucasli233&show_icons=true&theme=great-gatsby)
