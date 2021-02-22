@@ -4,6 +4,7 @@ Currently in my final semester of pursuing a Bachelor of Science degree majoring
 - Currently working on [react-movie-watchlist-v1](https://github.com/lucasli233/react-movie-watchlist-v1). 
 - Intellectually curious, tech & science passionate.
 - Enjoy solve problem solving, and a self-learner.
+- Constantly looking to learn new skills and improve myself.
 
 My Top Skills: JAVA / PYTHON / REACT / JS / HTML / CSS
 
