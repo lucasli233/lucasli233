@@ -8,8 +8,8 @@ Currently in my final semester of pursuing a Bachelor of Science degree majoring
 
 My Top Skills: JAVA / PYTHON / REACT / JS / HTML / CSS
 
-[![Portfolio](https://img.shields.io/badge/-View_my_portfolio-orange?style=flat&logo=SitePoint&logoColor=white)](https://lucasli233.github.io/react-portfolio/) 
-[![Linkedin](https://img.shields.io/badge/-Find_me_on_Linkedin-orange?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucasli233/) 
+[![Portfolio](https://img.shields.io/badge/-View_my_portfolio-orange?style=flat&logo=SitePoint&logoColor=white)](https://lucasli233.github.io/me/) 
+[![Linkedin](https://img.shields.io/badge/-Find_me_on_Linkedin-orange?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucaslinz/) 
 [![Instagram](https://img.shields.io/badge/-Find_me_on_Instagram_-orange?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/__lucass_li__/)
 [![Facebook](https://img.shields.io/badge/-Find_me_on_Facebook_-orange?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/LucasShengqiLi/)
 
