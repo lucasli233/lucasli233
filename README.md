@@ -16,7 +16,7 @@ My Top Skills: JAVA / PYTHON / REACT / JS / HTML / CSS
 When I'm not working:briefcase: studying:man_technologist: or sleeping:sleeping: you will find me:
 - Learning more about technology, science, and philosophy 🤓
 - Reading 📖 watching a lot of critically acclaimed films 🎬
-- Listening to a wide range of music: classical 🎻rock 🎸 techno 🎧
+- Listening to a wide range of music: classical 🎻rock 🎸 EDM 🎧
 - Watching fashion shows 🧥 looking for new clothes to buy 👞
 - Working out at the gym 🏋️‍♂️
 
